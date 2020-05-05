@@ -1,3 +1,12 @@
+Exercício da criação de um aplicativo de escolhas feito a partir do curso de iOS 13
+
+
+
+
+=========================================================================================================================
+
+
+
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
